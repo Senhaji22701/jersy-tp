@@ -1,2 +1,4 @@
-# jersy-tp
- 
+# Test-JAX-RS-Jersey
+Test via Postman :
+
+
